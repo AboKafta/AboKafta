@@ -1,6 +1,6 @@
 # Hi, I'm Georgy Rached
 
-Electrical and computer engineering student at Northeastern University, focused on PCB design and embedded systems. Looking for a co-op in hardware or embedded engineering.
+Electrical engineering student at Northeastern University, focused on PCB design and embedded systems. Looking for a co-op in hardware engineering.
 
 ## What I work on
 
@@ -18,4 +18,4 @@ My PCB, embedded, and school projects are in [Hardware-Projects](https://github.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/georgyrached) · [Rached.g@northeastern.edu](mailto:Rached.g@northeastern.edu)
